@@ -1,0 +1,39 @@
+body {
+    background: #f1f1f1;
+}
+
+h1{
+    font-size: 20px;
+}
+
+.header {
+    color: rgb(44, 231, 222);
+}
+
+.navbar {
+    padding: 5px;
+    background:white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    background: rgb(41, 231, 222);
+    font-size: 10px;
+    padding: 3px;
+}
+
+.navbar a {
+    font-size: 13px;
+    text-decoration: none;
+}
+
+
+
+.navbar li{
+    display: inline-block;
+    padding: 3px;
+}
